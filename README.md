@@ -8,4 +8,5 @@
 ## License
 Creative Commons Zero v1.0 Universal ([https://choosealicense.com/licenses/cc0-1.0/](https://choosealicense.com/licenses/cc0-1.0/))
 ## 参与贡献
-欢迎向我们提交 Issues 反馈问题（注：提交前请阅读 [提交指南](https://github.com/chzane/Vip-video-parsing/blob/main/CONTRIBUTING.md))
+欢迎向我们提交 Issues 反馈问题（注：提交前请阅读 [提交指南](https://github.com/chzane/Vip-video-parsing/blob/main/CONTRIBUTING.md))  
+如果喜欢请点击star
